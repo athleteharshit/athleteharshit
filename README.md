@@ -31,7 +31,6 @@ I am a passionate self-taught programmer from India.
 - 🌱 Covid 19 Tracker web application using react, google map location, rest api and chart.js [Covid 19](https://covid-19-4e5a4.web.app/)
 - 👯 Some another clone I created for practice [Amazon](https://clone-8a8c7.web.app/) [Youtube](https://clone-376b0.web.app/)
 - 🌱 I’m currently learning Node js and Monogodb
-- 💬 Ask me about anything [here](https://github.com/ohidurbappy/ohidurbappy/issues)
 - 📫 How to reach me: guptaharshit545@gmail.com <br>
 - 🥅 2020 Goals: Web developer.
 
