@@ -51,6 +51,6 @@ I am a passionate self-taught programmer from India.
 
 
 <pre>
-“THE ONLY EASY DAY WAS YESTERDAY.”
+“THE ONLY EASY DAY WAS YESTERDAY....”
 </pre>
 
