@@ -21,7 +21,7 @@
 <br />
 
 <pre>
-“I am therefore currently looking for a job or an internship as a front-end developer.”
+“I am therefore currently looking for a job as a front-end developer.”
 </pre>
 
 ### Glad to see you here! 🤩 &nbsp;
