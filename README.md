@@ -33,7 +33,7 @@ I am a passionate self-taught programmer from India.
 - 👯 Some another clone I created for practice [Amazon](https://clone-8a8c7.web.app/) [Youtube](https://clone-376b0.web.app/)
 - 🌱 I’m currently learning Node js and Monogodb
 - 📫 How to reach me: guptaharshit545@gmail.com <br>
-- 🥅 2022 Goals: MERN Developer.
+- 🥅 2026 Goals: AI/ML.
 
 **Languages and Tools:** &nbsp;
 <code><img height="15" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
