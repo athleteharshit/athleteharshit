@@ -26,14 +26,29 @@
 
 ### Glad to see you here! 🤩 &nbsp;
 
-I am a passionate self-taught programmer from India.
-- 🌱 ShareMe is an social media app.[ShareMe](https://sharemeharshit.netlify.app/)
-- 🔭 I’m Created Netflix clone using react.[Netflix clone](https://netflix-clone-86bdb.web.app/)
-- 🌱 Covid 19 Tracker web application using react, google map location, rest api and chart.js [Covid 19](https://covid-19-4e5a4.web.app/)
-- 👯 Some another clone I created for practice [Amazon](https://clone-8a8c7.web.app/) [Youtube](https://clone-376b0.web.app/)
-- 🌱 I’m currently learning Node js and Monogodb
-- 📫 How to reach me: guptaharshit545@gmail.com <br>
-- 🥅 2026 Goals: AI/ML.
+I'm a passionate self-taught software engineer from India with over 4 years of professional experience in building scalable frontend applications using React.js, Next.js, and modern web technologies.
+
+### 🚀 Projects I've Built
+
+* **[ShareMe](https://sharemeharshit.netlify.app/)** – A social media platform where users can share images and connect with others. Built with React and Sanity.io.
+
+* **[Netflix Clone](https://netflix-clone-86bdb.web.app/)** – A fully responsive Netflix UI clone built using React, Firebase, and TMDB API.
+
+* **[Covid-19 Tracker](https://covid-19-4e5a4.web.app/)** – A real-time COVID-19 dashboard using React, REST APIs, Google Maps, and Chart.js for global statistics visualization.
+
+* **[Amazon Clone](https://clone-8a8c7.web.app/)** & **[YouTube Clone](https://clone-376b0.web.app/)** – Feature-rich clones replicating core functionalities of Amazon and YouTube using React and Firebase.
+
+### 🌱 Currently Learning
+
+* Backend development with **Node.js** and **MongoDB** to become a full-stack developer.
+
+### 🎯 2026 Goals
+
+* Dive deeper into **Artificial Intelligence** and **Machine Learning**.
+
+### 📫 Get in Touch
+
+Feel free to reach out at: **[guptaharshit545@gmail.com](mailto:guptaharshit545@gmail.com)**
 
 **Languages and Tools:** &nbsp;
 <code><img height="15" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
