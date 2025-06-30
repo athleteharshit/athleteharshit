@@ -27,7 +27,7 @@
 
 ### 👋 Glad to See You Here! 🤩
 
-I'm a passionate self-taught software engineer from India with over **4 years of professional experience** building scalable, modern web applications using **React.js**, **Next.js**, and other cutting-edge technologies.
+I'm a passionate self-taught software engineer from India with over **4+ years of professional experience** building scalable, modern web applications using **React.js**, **Next.js**, and other cutting-edge technologies.
 
 ---
 
